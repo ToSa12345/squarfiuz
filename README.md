@@ -1,1 +1,1 @@
-[!squarfiuz's presentation](./aboutme.png)
+[!squarfiuz's presentation](aboutme.png)
